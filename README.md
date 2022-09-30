@@ -33,7 +33,8 @@ Number of Problems Solved (19-Sep-2022 21:24:41)
 
 | Topic Name | Java | CPP |
 | :--------: | :--------: | :--------: |
-| [Basic-Programming](https://github.com/omumrania/DSA#basic-programming) | 0 | 12 |
+| [Basic-Programming](https://github.com/om-umrania/DSA#basic-programming) | 0 | 12 |
+|  |  |  |
 | [Arrays](https://github.com/prateekshyap/DSA#arrays) | 110 | 75 |
 | [BackTracking](https://github.com/prateekshyap/DSA#backtracking) | 33 | 16 |
 | [Bit-Magic](https://github.com/prateekshyap/DSA#bit-magic) | 28 | 23 |
