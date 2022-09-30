@@ -72,7 +72,8 @@ Number of Problems Solved (19-Sep-2022 21:24:41)
 
 |  #  |Title            |Links            |Solution         |Difficulty       |Time Complexity  |Space Complexity |
 |-----|---------------- |---------------- |---------------- |---------------- |---------------- |---------------- |
-|  1  | The Cheaper Cab |[CF](https://www.codechef.com/submit/CABS) |[Java](https://www.codechef.com/viewsolution/) |Medium|O(n)||
+|  1  | The Cheaper Cab |[CF](https://www.codechef.com/submit/CABS) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_CABS.c%2B%2B) |Medium|O(n)||
+|  1  | The Cheaper Cab |[CF](https://www.codechef.com/submit/CABS) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_CABS.c%2B%2B) |Medium|O(n)||
 
 
 ## Arrays
