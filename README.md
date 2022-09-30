@@ -1,6 +1,3 @@
-# code-chef
-For practicing, I am solving Data Structures and Algorithms
-
 # Topicwise-Solutions-To-Coding-Questions
 
 Solutions to the algorithmic problems in [LeetCode](https://leetcode.com/problemset/algorithms/), [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?problemType=full&page=1), [Hackerrank](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving), [Interviewbit](https://www.interviewbit.com/courses/programming/), [Codechef](https://www.codechef.com/practice) and [Codeforces](https://codeforces.com/problemset) written in **C++** and **JAVA**.
