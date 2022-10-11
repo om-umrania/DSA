@@ -72,9 +72,10 @@ Number of Problems Solved (19-Sep-2022 21:24:41)
 
 |  #  |Title            |Links            |Solution         |Difficulty       |Time Complexity  |Space Complexity |
 |-----|---------------- |---------------- |---------------- |---------------- |---------------- |---------------- |
-|  1  | The Cheaper Cab |[CF](https://www.codechef.com/submit/CABS) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_CABS.c%2B%2B) |Medium|O(n)||
-|  1  | The Cheaper Cab |[CF](https://www.codechef.com/submit/CABS) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_CABS.c%2B%2B) |Medium|O(n)||
-
+|  1  | The Cheaper Cab |[CC](https://www.codechef.com/submit/CABS) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_CABS.c%2B%2B) |Medium|O(n)||
+|  2  | Volume Control |[CC](https://www.codechef.com/submit/VOLCONTROL) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_VOLCONTROL.cpp) |Medium|O(n)||
+|  3  | ATM |[CC](https://www.codechef.com/submit/HS08TEST) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_HS08TEST.cpp) |Medium|O(n)||
+|  4  | ATM |[CC](https://www.codechef.com/submit/HS08TEST) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_HS08TEST.cpp) |Medium|O(n)||
 
 ## Arrays
 
