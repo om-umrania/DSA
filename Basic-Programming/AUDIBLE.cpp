@@ -1,16 +1,18 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
+int main()
+{
     int t;
-    cin>>t;
+    cin >> t;
     int x;
-    for (int i = 0; i < t; i++) {
-        cin>>x;
+    for (int i = 0; i < t; i++)
+    {
+        cin >> x;
         if (x >= 67 && x <= 45000)
-            cout<<"YES"<<endl;
+            cout << "YES" << endl;
         else
-            cout<<"NO"<<endl;
+            cout << "NO" << endl;
     }
     return 0;
 }
