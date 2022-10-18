@@ -16,6 +16,7 @@ Number of Problems Solved (19-Sep-2022 21:24:41)
 | Topic Name | Java | CPP |
 | :--------: | :--------: | :--------: |
 | [Arrays](https://github.com/om-umrania/DSA/tree/main#arrays) | 0 | 0 |
+| [Basic Programming](https://github.com/om-umrania/DSA#basic-programming) | 0 | 0 |
 | Total | 0 | 0 |
 
 ## Reference
@@ -27,15 +28,22 @@ Number of Problems Solved (19-Sep-2022 21:24:41)
 * JAVA
 	* [Time Complexity](to-be-updated)
 
-	## Basic Programming
+## Basic Programming
 
-	|  #  |Title            |Links            |Solution         |Difficulty       |Time Complexity  |Space Complexity |
-	|-----|---------------- |---------------- |---------------- |---------------- |---------------- |---------------- |
-	|  1  | The Cheaper Cab |[CC](https://www.codechef.com/submit/CABS) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_CABS.c%2B%2B) |Medium|O(n)||
-	|  2  | Volume Control |[CC](https://www.codechef.com/submit/VOLCONTROL) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_VOLCONTROL.cpp) |Medium|O(n)||
-	|  3  | ATM |[CC](https://www.codechef.com/submit/HS08TEST) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_HS08TEST.cpp) |Medium|O(n)||
-	|  4  | ATM |[CC](https://www.codechef.com/submit/HS08TEST) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_HS08TEST.cpp) |Medium|O(n)||
-
+|  #  |Title            |Links            |Solution         |Difficulty       |Time Complexity  |Space Complexity |
+|-----|---------------- |---------------- |---------------- |---------------- |---------------- |---------------- |
+|  1  | The Cheaper Cab |[CC](https://www.codechef.com/submit/CABS) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_CABS.c%2B%2B) | Easy | O(n) ||
+|  2  | Volume Control |[CC](https://www.codechef.com/submit/VOLCONTROL) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_VOLCONTROL.cpp) | Easy | O(n) ||
+|  3  | ATM |[CC](https://www.codechef.com/submit/HS08TEST) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_HS08TEST.cpp) | Easy | O(n) ||
+|  4  | Ezio and Guards |[CC](https://www.codechef.com/submit/MANIPULATE) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_MANIPULATE.cpp) | Easy | O(n) ||
+|  5  | Credit Score |[CC](https://www.codechef.com/submit/CREDSCORE) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_CREDSCORE.cpp) | Easy | O(n) ||
+|  6  | Enormous Input Test |[CC](https://www.codechef.com/submit/INTEST) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_INTEST.cpp) | Easy | O(n) ||
+|  7  | Course Registration |[CC](https://www.codechef.com/submit/COURSEREG) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_COURSEREG.cpp) | Easy | O(n) ||
+|  8  | Increase IQ |[CC](https://www.codechef.com/submit/INCRIQ) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_INCRIQ.cpp) | Easy | O(n) ||
+|  9  | Battery Low |[CC](https://www.codechef.com/submit/BATTERYLOW) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_BATTERYLOW.cpp) | Easy | O(n) ||
+|  10  | Miami GP |[CC](https://www.codechef.com/submit/F1RULE) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_F1RULE.cpp) | Easy | O(n) ||
+|  11  | Mahasena |[CC](https://www.codechef.com/submit/AMR15A) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_AMR15A.cpp) | Easy | O(n) ||
+|  -  | Game between friends |[CC](https://www.codechef.com/submit/INCRIQ) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_FRGAME.cpp) | Difficulty | O(n) ||
 
 ## Arrays
 
