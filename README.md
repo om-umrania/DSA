@@ -43,7 +43,10 @@ Number of Problems Solved (19-Sep-2022 21:24:41)
 |  9  | Battery Low |[CC](https://www.codechef.com/submit/BATTERYLOW) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_BATTERYLOW.cpp) | Easy | O(n) ||
 |  10  | Miami GP |[CC](https://www.codechef.com/submit/F1RULE) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_F1RULE.cpp) | Easy | O(n) ||
 |  11  | Mahasena |[CC](https://www.codechef.com/submit/AMR15A) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_AMR15A.cpp) | Easy | O(n) ||
-|  -  | Game between friends |[CC](https://www.codechef.com/submit/INCRIQ) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_FRGAME.cpp) | Difficulty | O(n) ||
+|  -  | CAN_REACH |[CC](https://www.codechef.com/submit/CAN_REACH) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_CAN_REACH.cpp) | Medium | O(n) ||
+|  -  | Naive Chef |[CC](https://www.codechef.com/submit/NAICHEF) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/NAICHEF.cpp) | Medium | O(n) ||
+|  -  | Playing with Matches |[CC](https://www.codechef.com/submit/MATCHES) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/MATCHES.cpp) | Medium | O(n) ||
+|  -  | Game between friends |[CC](https://www.codechef.com/submit/INCRIQ) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_FRGAME.cpp) | Medium | O(n) ||
 
 ## Arrays
 
