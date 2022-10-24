@@ -31,7 +31,7 @@ Number of Problems Solved (19-Sep-2022 21:24:41)
 	## Basic Programming
 
 	|  #  |Title            |Links            |Solution         |Difficulty       |Time Complexity  |Space Complexity |
-	|-----|---------------- |---------------- |---------------- |---------------- |---------------- |
+	|-----|---------------- |---------------- |---------------- |---------------- |---------------- |---------------- |
 	|  1  | The Cheaper Cab |[CC](https://www.codechef.com/submit/CABS) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-1/CC_CABS.c%2B%2B) | Easy | O(n) ||
 	|  2  | Volume Control |[CC](https://www.codechef.com/submit/VOLCONTROL) |[C++](https://github.com/om-umrania/DSA/blob/main/1-Programming/CC_VOLCONTROL.cpp) | Easy | O(n) ||
 	|  3  | ATM |[CC](https://www.codechef.com/submit/HS08TEST) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-1/CC_HS08TEST.cpp) | Easy | O(n) ||
