@@ -57,7 +57,16 @@ Number of Problems Solved (19-Sep-2022 21:24:41)
 |  24  | Decrement OR Increment |[CC](https://www.codechef.com/submit/DECINC) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_DECINC.cpp) | Easy | O(n) ||
 |  25  | Pass or Fail |[CC](https://www.codechef.com/submit/PASSORFAIL) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_PASSORFAIL.cpp) | Easy | O(n) ||
 |  26  | Second Largest |[CC](https://www.codechef.com/submit/FLOW017) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_FLOW017.cpp) | Easy | O(n) ||
-
+|  27  | Chef and Races |[CC](https://www.codechef.com/submit/CHEFRACES) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_CHEFRACES.cpp) | Easy | O(n) ||
+|  28  | Sum OR Difference |[CC](https://www.codechef.com/submit/DIFFSUM) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_DIFFSUM.cpp) | Easy | O(n) ||
+|  29  | Small Factorial |[CC](https://www.codechef.com/submit/FLOW018) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_FLOW018.cpp) | Easy | O(n) ||
+|  30  | Janmansh and Games |[CC](https://www.codechef.com/submit/JGAMES) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_JGAMES.cpp) | Easy | O(n) ||
+|  31  | Helping Chef |[CC](https://www.codechef.com/submit/FLOW008) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_FLOW008.cpp) | Easy | O(n) ||
+|  32  | Life, the Universe, and Everything |[CC](https://www.codechef.com/submit/TEST) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_TEST.cpp) | Easy | O(n) ||
+|  33  | Economics Class |[CC](https://www.codechef.com/submit/ECOCLASS) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_ECOCLASS.cpp) | Easy | O(n) ||
+|  34  | RCB and Playoffs |[CC](https://www.codechef.com/submit/ROBPLAY) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_ROBPLAY.cpp) | Easy | O(n) ||
+|  33  | The Lead Game |[CC](https://www.codechef.com/submit/TLG) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_TLG.cpp) | Easy | O(n) ||
+|  34  | Lazy Chef |[CC](https://www.codechef.com/submit/LAZYCHF) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_LAZYCHF.cpp) | Easy | O(n) ||
 
 |  -  | CAN_REACH |[CC](https://www.codechef.com/submit/CAN_REACH) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/CC_CAN_REACH.cpp) | Medium | O(n) ||
 |  -  | Naive Chef |[CC](https://www.codechef.com/submit/NAICHEF) |[C++](https://github.com/om-umrania/DSA/blob/main/Basic-Programming/NAICHEF.cpp) | Medium | O(n) ||
