@@ -32,6 +32,11 @@ int main()
                 money -= 5;
                 coin++;
             }
+            else if (money >= 2)
+            {
+                money -= 2;
+                coin++;
+            }
             else
             {
                 money--;
